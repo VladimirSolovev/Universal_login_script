@@ -1,0 +1,16 @@
+<?php
+/**
+ * This file define BD access infos.
+ *
+ * PHP version 7
+ *
+ * @category  PHP
+ * @package   PHP_universal_login_script
+ * @author    WCS <vladimirsolovyev9@gmail.com>
+ * @link
+ *
+ */
+
+define("DSN", "mysql:host=localhost;dbname=universal_login");
+define("USER", "user");
+define("PASS", "password");
